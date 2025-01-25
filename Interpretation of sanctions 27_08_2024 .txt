@@ -1,0 +1,999 @@
+Chapter 1 of this document provides information to help interpret the provisions on the freezing of 
+assets, which apply to all sanctions ordinances that provide for the freezing of assets and economic 
+resources.
+Chapter 2 contains important information for the interpretation of Articles 12b, 13, 14, 14a, 14c, 14e, 
+14f, 15, 16, 20, 21, 22, 23, 25, 28b, 28d and 28e of the Ordinance instituting measures in connection 
+with the situation in Ukraine (SR 946.231.176.72)1.
+This document is not legally binding. Compliance with the provisions of the Ordinance is the sole 
+responsibility of the persons and bodies affected by the sanctions.
+The Swiss authorities endeavour to align the implementation of sanctions as far as possible with that in 
+the European Union (EU) and are in contact with the competent bodies of the latter to this end. SECO 
+reserves the right to make additions or amendments to this document in the future.
+Federal Department of Economic Affairs, 
+Education and Research EAER
+State Secretariat for Economic Affairs SECO
+Sanctions
+Interpretation of sanctions
+State 27 August 2024
+Below are answers to frequently asked questions. Questions that are not answered below can be 
+directed to sanctions@seco.admin.ch.
+1 Unless otherwise specified, the information and interpretations contained in Chapter 2 also apply to the identical provisions of the Ordinance 
+imposing measures against Belarus (SR 946.231.116.9).
+SECO-D-FE893401/72
+
+Summary
+1 General indications on the interpretation of asset freezing measures in the
+swiss sanctions ............................................................................................................................4
+1.1 Which normal administrative operations are not covered by the freezing of assets 
+and can therefore be carried out by financial institutions without requiring
+an authorisation? ..................................................................................................................4
+1.2 Can proceeds from corporate actions on a blocked account be credited to the blocked 
+account?...............................................................................................................................4
+1.3 Can proceeds from securities issued by sanctioned ................companies or organisations 
+..........................................................................................................................be accepted?
+.............................................................................................................................................4
+1.4 Financial institutions in Switzerland may accept payments from non-sanctioned clients
+of banks subject to sanctions? .............................................................................................5
+1.5 Banks must declare whether they block payments from non-sanctioned customers
+in favour of sanctioned individuals, companies or organisations? ........................................5
+1.6 Are the notifications on the freezing of assets and economic resources to be updated in 
+the event of changes in assets? ..........................................................................................5
+1.7 With regard to assets or economic resources notified to SECO that are 'blocked as a 
+precautionary measure', can persons and financial institutions unblock them 
+independently, i.e. without first consulting SECO?...............................................................5
+1.8 How should the concept of 'ownership' in companies or organisations be interpreted?.......6
+1.9 How should the concept of 'control' over a company or organisation be interpreted?..........6
+1.10 Can operational measures be taken to remove effective control over the ownership or 
+control relationships of an indirectly sanctioned Swiss company or organisation? 7 .............
+2 Interpretation of specific provisions of the ordinance instituting measures
+in relation to the situation in Ukraine .........................................................................................7
+2.1 Trading, brokering and transportation of crude oil and petroleum products with or
+to third countries (Art. 12b)...................................................................................................7
+2.2 Steel Products and Economically Important Goods (Art. 14a and 14c) ...............................8
+2.3 Import and export of goods from/to designated territories and prohibition of financing, 
+participation and services in designated territories (Articles 13, 14 and 25) ..................... 10
+2.4 Diamonds and diamond products (Art. 14e).......................................................................12
+2.5 Contractual obligation to prevent re-exportation (Art. 14f)..................................................13
+2.6 Freezing of assets and economic resources and obligation to notify (Art. 15 and 16) .14
+2.7 Ban on accepting deposits and assets based on cryptocurrencies and related
+declaration obligation (Art. 20 and 21)................................................................................16
+To whom are Articles 20 and 21 addressed? .....................................................................16
+How should declarations be made according to Article 21?...............................................16
+How is the CHF 100,000 limit calculated?..........................................................................17
+Which natural persons are covered by Article 20 of the Ordinance?..................................18
+Which legal persons are covered by Article 20 of the Ordinance? .....................................19
+Do Russian consular and diplomatic representations in Switzerland fall under Article 20 of 
+the Ordinance? .................................................................................................................. 20
+Other questions ..................................................................................................................20
+2.8 Prohibition of central depositories from providing certain services (Art. 22).......................21
+2.9 Prohibition to Sell Securities (Art. 23).................................................................................21
+2.10 Prohibition of transactions with the Central Bank of the Russian Federation (Art. 24).......22
+2.11 Prohibitions on Energy and Mining Enterprises in the Russian Federation (Art. 28b)....... 22
+2.12 Prohibitions concerning trusts (Art. 28d).............................................................................23
+Which legal institutions are affected by Article 28d? ....................................................23
+2/26
+What is meant by control? ..................................................................................................24
+What territorial scope is envisaged? ...................................................................................24
+How does the derogation in Article 28d para. 3 apply?......................................................25
+Is there a transitional period? If so, how is it regulated? ....................................................25
+2.13 Prohibitions concerning services (Art. 28e) ........................................................................26
+3/26
+1 General Guidelines on the Interpretation of Asset Freezing 
+Measures in Swiss Sanctions
+1.1What are the normal administrative transactions that do not fall under the asset freeze2 and 
+can therefore be carried out by financial institutions without requiring authorisation?
+Blocking of assets is understood to be the prevention of any action allowing the administration or use 
+of the blocked assets. Consequently, portfolio management, i.e. the realisation of new investments or 
+the sale and exchange of investment products using the blocked assets, is also prohibited. Normal 
+administrative operations of financial institutions are not covered by the freezing of assets. These are 
+in particular the charging of fees (e.g. for account management) and the recording of interest.
+1.2Can proceeds from corporate actions on a blocked account be credited to the blocked 
+account?
+In principle, the transfer of assets or the direct and indirect provision of assets and economic resources 
+to persons subject to the asset freeze is prohibited. In practice, income from 'corporate actions' may 
+accumulate on accounts frozen as a result of the freezing of assets. They originate from securities that 
+were included in the investment portfolio of the affected account before the sanction.
+In order to take into account the operational realities in the securities business, the proceeds of 
+compulsory 'corporate actions' without a choice option - typically share dividends or bond interest, but 
+also exchange offers in connection with certificates of deposit - may be credited to the corresponding 
+account without prior approval by SECO and kept blocked. This also applies to proceeds from 
+'corporate actions' with a choice, where the holder does not actively choose an option, but the 
+proceeds are transferred to the bank in cash and no new investment is made.
+Financial institutions must separately disclose and identify income from corporate actions when 
+updating the value of blocked assets, which is done once a year.
+The execution of non-mandatory 'corporate actions' and 'corporate actions' with a choice, in which the 
+holder makes an active choice, is still prohibited without prior approval by SECO.
+1.3Can proceeds from securities issued by sanctioned companies or organisations3 be 
+accepted?
+Transactions by sanctioned legal persons, companies or organisations to distribute the proceeds of 
+securities issued by them are generally subject to asset freezing. Accordingly, the Swiss financial 
+institutions carrying out the final accounting must block such transactions and report them to SECO. 
+The latter may authorise at a later stage, on the basis of the corresponding provision in the ordinances, 
+the release of the funds and their posting to any account in Switzerland.
+In view of the large number of this type of transactions, a simplified procedure is applied for crediting 
+the accounts of non-sanctioned customers with proceeds from securities issued by sanctioned 
+companies or organisations in cases where the transaction was generated by these same entities. 
+Recurring and mandatory transactions in relation to securities issued by companies or organisations 
+subject to financial sanctions -  including corporate actions in the form of stock dividends,
+2 See e.g. Art. 1b of the Ordinance on Measures against Syria (SR 946.231.172.7).
+3 The companies and organisations subject to the freezing of assets and the prohibition on making assets available are listed in the provisions 
+of the various sanctions ordinances and their annexes, such as in Annex 8 to the Ordinance instituting measures in connection with the 
+situation in Ukraine (SR 946.231.167.72) or Annex 7 to the Ordinance instituting measures in connection with Syria (SR 946.231.172.7). 4/26
+4
+Ibid.
+5/26
+bond interests, exchange offers in connection with certificates of deposit - are not subject to prior 
+authorisation.
+Starting with the calendar year 2024, the financial institutions carrying out the final accounting for the 
+above transactions will provide SECO by the end of February with an annual overview of the 
+transactions carried out (reference date: 31 December of the previous year). Statements must be made 
+for each security (ISIN number) and, in addition to the ISIN, must contain information on its type, the 
+type of proceeds (share dividend, bond interest, etc.), the number of business relationships involved, 
+the number of transactions executed and the amount credited (total amount per currency). Non-
+mandatory 'corporate actions' remain subject to the authorisation requirement.
+1.4Can financial institutions in Switzerland accept payments from non-sanctioned customers of 
+sanctioned banks4?
+Payments sent by non-sanctioned clients of sanctioned banks generally fall under the asset freeze. 
+Accordingly, Swiss financial institutions that do the final accounting should in theory block such 
+transactions upon receipt and report them to SECO.
+However, a simplified procedure applies. Payments by non-sanctioned customers from their accounts 
+with sanctioned banks can be accepted and accounted for without the prior approval of SECO.
+Financial institutions making final payment entries shall provide SECO with a quarterly overview of 
+payments received. Statements must be made for each business relationship concerned and include 
+information on the banks involved, the accounts concerned (account numbers, sender, recipient), the 
+number of payments and the amount credited (total amount per currency).
+1.5Do banks have to declare whether they block payments from non-sanctioned customers to 
+sanctioned individuals, companies or organisations?
+Yes, payments to sanctioned recipients must be blocked and reported to SECO. However, the 
+payment amount does not have to be blocked, but can be credited back to the non-sanctioned sender.
+1.6Must the notifications on the freezing of assets and economic resources be updated in the event 
+of changes in assets?
+No continuous updating of assets is required. The financial institutions do, however, send SECO by 15 
+February each year the updated data on all assets blocked under the various sanction regimes 
+(reference date: 31 December of the previous year). The corresponding notifications to SECO are 
+made exclusively via the appropriate table, which is available on SECO's website, and transmitted 
+electronically, preferably via the FDJP-certified PrivaSphere Secure Messaging or by means of a file 
+transfer.
+1.7With regard to assets or economic resources subject to notification to SECO that are
+'blocked as a precautionary measure', can individuals and financial institutions release them 
+independently, i.e. without consulting SECO beforehand?
+Persons and institutions that hold or manage assets or are aware of assets or economic resources 
+allegedly falling within the scope of the freeze are required to consult SECO and explain the reasons 
+that would justify the release of such funds and resources. The decision is then up to SECO.
+9 Ibid.
+6/26
+1.8How should the concept of 'ownership'5 be interpreted in companies or organisations?
+Ownership exists when a natural person, enterprise or organisation directly or indirectly holds more 
+than 50 per cent of the ownership rights of an enterprise or organisation. The ownership shares of 
+several sanctioned natural persons, enterprises or organisations are generally added together, i.e. 
+considered in the aggregate.
+1.9How should the concept of 'control'6  over an enterprise or organisation be interpreted?
+In order to clarify whether a company or organisation is controlled by a natural person, a company or 
+organisation alone or on the basis of an agreement with another shareholder or a third party, the 
+following criteria in particular must be considered:
+a) the natural person, undertaking or organisation may, formally or de facto7, appoint and/or dismiss the 
+majority of the members of the board of directors or management of the undertaking or organisation;
+b) formally or de facto8 holds a majority of the voting rights of the enterprise or organisation;
+c) has the right to exercise a dominant influence over the undertaking or organisation on the basis of 
+a contract concluded with that undertaking or organisation or pursuant to a provision to that effect in 
+its memorandum or articles of association;
+d) may avail itself of the right to exercise a dominant influence within the meaning of subparagraph c 
+even though it does not hold such a right9;
+e) has the right to use, in whole or in part, the assets and economic resources of the enterprise or 
+organisation or to dispose of them;
+f) manages the activity of the company or organisation on a unified basis, while publishing 
+consolidated accounts;
+g) jointly and severally shares or guarantees the financial liabilities of an enterprise or 
+organisation;
+h) as a lender, formally and/or de facto exercises a dominant influence on management decisions.
+If one of these criteria is met, the enterprise or organisation is deemed to be under the control of 
+another person or organisation, unless the contrary can be demonstrated on a case-by-case basis.
+In situations of transfers of value to third parties (e.g. sale of company shares or donations to family 
+members or other connected natural persons), further elements must be taken into account. If, at the 
+time of the assessment, there is a well-founded suspicion that the assets or economic resources have 
+been formally transferred to a third party, but that the sanctioned natural person, company or 
+organisation still exercises control over those assets or economic resources, they must be frozen. The 
+time at which the assets or economic resources were transferred to a non-sanctioned third party is not 
+a determining factor. The following non-exhaustive list of criteria may be used for the assessment:
+• the close relationship (family, business, personal) between the person directly subject to the 
+freezing of assets or economic resources and the third party;
+• the economic and/or professional independence of the third party who is now the 
+nominal owner of the assets or economic resources;
+• the value and frequency/regularity of suspicious donations as compared to donations to 
+third parties made before the sanction was imposed;
+• the existence and content of formal agreements between the sanctioned person and the third person;
+5 See e.g. Article 15 of the Ordinance instituting measures in connection with the situation in Ukraine (SR 946.231.176.72).
+6 Ibid.
+7 For instance, through a front person.
+8 Ibid.
+• observance of the arm's length principle10 in the transfer of value (e.g. terms of sale of 
+company shares).
+1.10Can operational measures be taken to remove effective control over the ownership or control 
+relationships of an indirectly sanctioned Swiss company or organisation?
+Companies or organisations established in Switzerland may take measures to prevent sanctioned 
+natural persons, companies or organisations from effectively exercising their rights in relation to 
+beneficial ownership or control.
+These 'ring fencing' measures (also known as 'firewalls') aim to remove the control over the assets of 
+a company or organisation exercised by a sanctioned individual, company or organisation. They allow 
+companies or organisations based in Switzerland to continue their business activities. Assets 
+belonging to the sanctioned natural person, business or organisation remain blocked and it must be 
+ensured that neither assets nor economic resources are made available, directly or indirectly, to 
+sanctioned natural persons, businesses or organisations.
+SECO confirms to the company or organisation concerned that the
+"ring fencing'. With regard to the Ordinance instituting measures in connection with the situation in 
+Ukraine (SR 946.231.176.72), SECO may, if necessary, authorise exemptions for the implementation of 
+such measures in accordance with Article 15 para. 10 and/or Article 28e para. 3 of the Ordinance.
+SECO generally applies its ring fencing criteria in line with those of the technical note published by the 
+European Commission (Guidance Note - Implementation of Firewalls in cases of EU entities owned or 
+controlled by a designated person or entity). The criteria for ring fencing measures by companies or 
+organisations based in Switzerland are based on the explanations contained in Annex 2 of this note 
+(Criteria for firewalls by operators and the use of external audits in this context).
+Before implementing any 'ring fencing' measures, the importance of the company concerned, both in terms of 
+market position and employment volume, is examined. These measures are generally only possible for 
+companies operating in sectors considered 'essential', i.e. food production, pharmaceuticals, fertilisers, 
+chemicals, water management, waste water treatment and nuclear energy.
+2 Interpretation of specific provisions of the ordinance instituting 
+measures in connection with the situation in Ukraine11
+2.1 Trade, brokering and transport of crude oil and petroleum products 
+with or into third countries (Art. 12b)
+2.1.1 How do economic operators in the supply chain of Russian crude oil or petroleum products 
+have to ensure and document compliance with the provisions of Article 12b, paragraphs 4(b) 
+and 5?
+In view of the international interconnectedness of the oil trade and the importance of a uniform 
+application of price caps, SECO refers to the EU Commission's FAQs on the implementation of EU 
+Council Regulations 269/2014 and 833/2014, in particular the explanations
+10 According to this principle, transactions must take place on the same terms that would have been agreed upon between unrelated third 
+parties in an arm's length environment and in comparable circumstances.
+11 SR 946.231.176.72, hereinafter referred to as 'Ordinance'. 7/26
+contained in Chapter E "Energy", item 5 "Oil Price Cap", section 7 "Attestations, recordkeeping and 
+itemised ancillary costs". These explanations indicate which information and documents are suitable for 
+the corresponding proofs.
+2.2 Steel Products and Economically Important Goods12 (Art. 14a and 14c)
+2.2.1 Is the purchase of goods listed in Annexes 17 and 20 permitted if the goods are destined for 
+a third country outside Switzerland and are not transported through Swiss territory?
+No. Articles 14a and 14c of the Ordinance prohibit the purchase of goods listed in Annexes 17 and 20 
+of the Ordinance if they originate in Russia or are exported from Russia. This prohibition applies 
+regardless of the final destination of the goods.
+Switzerland is determined to contribute to the fight against global food and energy crises. The Federal 
+Council has explicitly stated that none of the sanction measures against Russia are directed against 
+trade in agricultural and food products between third countries and Russia13 . For this purpose, the 
+purchase of certain goods listed in Annex 20 of the Ordinance and destined for a third country 
+according to Article 14c paragraph 4 is permitted. This applies to the purchase, as well as to the 
+provision of related services such as financial assistance, of the following goods listed in Annex 21 of 
+the Ordinance:
+- Potassium chloride (Tariff heading: 3104 20)
+- Mineral or chemical fertilisers containing the three fertilising elements nitrogen, phosphorus 
+and potassium (3105 20)
+- Mineral or chemical fertilisers containing the two fertilising elements phosphorus and potassium (3105 
+60)
+- Other fertilisers containing potassium chloride (ex 3105 90)
+2.2.2 Is the transport of goods listed in Annex 20 by a Swiss company permitted if the goods 
+are destined for a third country outside Switzerland and are not transported through 
+Swiss territory?
+Yes. Article 14c of the Ordinance prohibits the transport of the goods listed in Annex 20 to and through 
+Switzerland. However, transport by a Swiss company is permitted if the goods are destined for a third 
+country outside Switzerland and are not transported through Swiss territory.
+2.2.3 Is the provision of services - including financial assistance, brokerage or insurance 
+services - for the transport of goods listed in Annex 20 permitted if the goods are destined 
+for a third country outside Switzerland and are not transported through Swiss territory?
+Yes, Article 14c of the Ordinance prohibits the provision of services - including financial assistance, 
+brokerage or insurance services - for prohibited activities by persons, companies and bodies 
+established in Switzerland. Since the transport of goods listed in Annex 20 is permitted if the goods are 
+destined for a third state outside Switzerland and do not transit Swiss territory (see above), the 
+provision of services related to such transport is also permitted.
+12 From 16 August 2023, these also include coal and coal products, previously listed in Annex 22.
+13 'Ukraine: Switzerland implements new sanctions', Federal Council press release of 3 August 2022. 8/26
+14 The decisive factor is the customs tariff heading used to import the goods into Switzerland.
+9/26
+2.2.4 Which documents count as 'proof of the country of origin of the steel inputs used for the 
+processing of goods in a third country' according to Article 14a para. 4bis? In which cases 
+must such proof be provided?
+When importing or transporting goods listed in Annex 17 of the Ordinance14, the following documents 
+are considered sufficient proof if they attest to the country of origin of the iron or steel used as inputs:
+a) For semi-finished products:
+The mill test certificate, which contains the name of the company where the production takes 
+place, the name of the country where the casting took place (see casting number) and the 
+classification of the product under the subheading (six-digit customs tariff heading).
+b) For finished products:
+The test certificate(s) containing the following information:
+i. the name of the country and company where the merger took place (see merger 
+number) and the classification of the product under the subheading (six-digit customs 
+tariff heading); and
+ii. the name of the country and the name of the company where, if any, the following 
+work was carried out:
+1.hot-rolling;
+2.cold rolling;
+3.hot metal coating;
+4.electrolytic metal coating;
+5.organic coating;
+6.welding;
+7.drilling/extrusion;
+8.moulding/rolling;
+9.ERW/SAW/HFI/laser welding.
+In addition to the above-mentioned documents, invoices, delivery notes, quality certificates, long-term 
+supplier declarations, production calculation documents, customs documents of the exporting country, 
+trade letters, product descriptions, manufacturer's declarations or exclusion clauses in purchase 
+contracts, which prove the non-Russian origin of the preliminary goods, may also be recognised as 
+suitable evidence. Responsibility for the accuracy of the information contained in the above documents 
+lies with the importer.
+In the case of the import or transport from the European Economic Area (EEA) or the United Kingdom 
+of steel products or the re-import of steel products that were already in free circulation in Switzerland 
+and are re-imported without modification, no proof is required.
+In the case of direct import or transport from a third country, proof must be available at the time of 
+import of steel products listed in Annex 17 that have been processed in a third country, which must be 
+presented to the implementing authorities upon request; as of 1 March 2024, it must be entered as a 
+document (document code Y824) under the heading "Documents" in the customs declaration. The 
+document must be presented on request to the Federal Customs and Border Security Office (FCO) 
+together with the other accompanying customs documents.
+In case of doubt, the enforcement authorities may require further evidence, e.g. separate test 
+certificates for the different processing steps undergone by the product. All certificates must be 
+consistent with each other.
+Since products under customs tariff headings 7207.11, 7207.1210 and 7224.90 are semi-finished 
+products, under the sanctions provisions in force, the Russian Federation may include between 30
+10/26
+September 2023 and 1 April 2028 on the test certificate as the name of the country where the melting 
+took place (cf. melt number) for products manufactured using inputs of customs tariff heading 7207.11. 
+The same applies until 1 October 2024 for products manufactured using inputs of customs tariff 
+7207.1210 or 7224.90. If, on the other hand, the Russian Federation is indicated as the country where 
+the other processing was carried out (e.g. hot rolling, cold rolling), import, transport and purchase of 
+the goods are not permitted.
+2.2.5 Do the prohibitions in Article 14a para. 2 also apply to goods produced or processed in a 
+third country before 30 September 2023?
+The import bans apply to steel products containing Russian inputs imported into Switzerland after 30 
+September 2023, provided they were produced or processed after 23 June 2023. Corresponding steel 
+products that were produced or processed before 23 June 2023 are not subject to the bans. The date 
+of production or processing must be verifiable.
+If the goods in question are already in Switzerland and were presented to customs before 30 
+September 2023, Article 31a of the Ordinance applies and the goods may be purchased or transported.
+2.3 Import and export of goods from/to designated territories and 
+prohibition of financing, participation and services in designated 
+territories (Articles 13, 14 and 25)
+2.3.1 Articles 13, 14 and 25 speak of 'in the designated territories listed in Annex 6'. How do 
+companies and organisations know which territories in the Donetsk, Luhansk, Kherson, and 
+Zaporizhzhia regions are restricted?
+Annex 6 designates - in addition to Crimea and Sevastopol - the territories in the regions of Donetsk, 
+Luhansk, Kherson, Zaporizhzhia not controlled by the Ukrainian government. Given the unstable 
+situation, it is recommended to dynamically assess whether these territories are actually controlled by 
+the Ukrainian government. In case of doubt, companies and organisations can contact SECO.
+2.3.2 What goods can be imported into Switzerland from the Donetsk, Luhansk, Kherson and 
+Zaporizhzhia regions and under what conditions?
+Goods originating in the territories in the regions of Donetsk, Luhansk, Kherson and Zaporizhzhia not 
+under the control of the Government of Ukraine are subject to the provisions of Article 13 paragraph 1. 
+They may be imported only if they are accompanied by a certificate of origin issued by the Ukrainian 
+authorities. At present, however, Ukraine does not issue certificates of origin for territories outside its 
+control. By contrast, goods produced in the territories of Donetsk, Luhansk, Kherson and Zaporizhzhia 
+regions that are under government control can be imported freely.
+Since in the four regions trade between the territories controlled and those not controlled by the 
+Ukrainian government is in practice impossible, it is highly unlikely that there will be any exchange of 
+goods from the latter to the former. The import of goods from these four regions therefore does not 
+require any additional requirements or documents compared to importing from other parts of Ukraine.
+If there are reasonable doubts as to whether the goods originate from territories not under the control 
+of the Ukrainian government, importation into Switzerland may be subject to additional conditions, e.g. 
+the presentation of a copy of the customs export declaration for the goods in question. In order to prove 
+that the goods are not subject to the import ban under Article 13 para. 1, the declaration must have 
+been accepted by an official Ukrainian customs office.
+11/26
+2.3.3 What goods can be exported from Switzerland to the Donetsk, Luhansk, Kherson 
+and Zaporizhzhia regions and under what conditions?
+The prohibition on sale, supply, export or transit to any person, company or organisation or for use in 
+the territories of Donetsk, Luhansk, Kherson and Zaporizhzhia not under the control of the Government 
+of Ukraine applies only to the goods listed in Annex 7.
+There are no restrictions on exports to the Ukrainian-controlled territories of Donetsk, Luhansk, 
+Kherson and Zaporizhzhia. Since trade between Ukrainian government-controlled and non-controlled 
+territories is practically impossible in the four regions mentioned, it is highly unlikely that goods 
+exported to the controlled territories will be diverted to the non-controlled ones.
+If there are reasonable doubts as to the actual destination of the goods to be exported, exporters to 
+Switzerland may be asked to submit additional documents, e.g. a declaration by the local Ukrainian 
+authority that the consignee is active in the controlled territories, information on the buyer/consignee, 
+invoices or similar to prove that the goods are not covered by the prohibition in Article 14 para. 1. As 
+with all goods subject to export restrictions, the UDSC may also carry out checks to ensure that the 
+goods are not covered by the prohibition. Exceptions are possible, e.g. for humanitarian activities (Art. 
+14 para. 3).
+2.3.4 Can banks conduct trade-related financial transactions in the Donetsk, Luhansk, 
+Kherson and Zaporizhzhia regions, and if so, under what conditions?
+Banks in Switzerland may not provide certain brokerage or investment services or offer financing or 
+financial assistance in the territories of the Donetsk, Luhansk, Kherson and Zaporizhzhia regions that 
+are not controlled by the Ukrainian government. In the Kiev-controlled territories, on the other hand, 
+financial transactions aimed at supporting local trade are not restricted, as in all other regions of 
+Ukraine.
+As to whether a territory in the Donetsk, Kherson, Luhansk or Zaporizhzhia regions where a financial 
+transaction is to be carried out is under the control of the Ukrainian government, we refer to the 
+previous answer on how to assess such control. To do so, banks in Switzerland may contact Ukrainian 
+banks operating in the territory in question, provided they consider them reliable on the basis of past 
+experience. Similarly, they may also contact the Ukrainian authorities to obtain up-to-date information. 
+The principals of the transactions also have the opportunity to prove their legitimacy by submitting the 
+declarations and documents mentioned in connection with import and export (see above).
+2.3.5 Can Swiss companies provide services to people in the Donetsk, Kherson, Luhansk and 
+Zaporizhzhia regions or in connection with activities in those territories?
+Certain services provided in the territories of the Donetsk, Kherson, Luhansk and Zaporizhzhia regions 
+not under the control of the Government of Ukraine are restricted. Firstly, the sale, supply, export and 
+transit of Annex 7 goods are prohibited if destined for natural persons, companies or organisations in 
+the designated territories of Annex 6 (Art. 14(1)). It is also prohibited to provide technical assistance, 
+brokering services, construction and engineering services as well as financial means or financial 
+assistance in relation to Annex 7 goods to natural persons, companies or organisations in the 
+designated territories listed in Annex 6 (Art. 14(2)).
+In the services sector, secondly, there are several prohibitions that do not concern goods. For example, 
+in Annex 6 territories, the provision of investment services within the meaning of Article 25(3) or 
+services related to tourism activities is prohibited.
+However, there are no restrictions on the provision of services by Swiss companies to persons in the 
+territories of the Donetsk, Kherson, Luhansk and Zaporizhzhia regions controlled by the Ukrainian 
+authorities. In these
+15 In the case of cut diamonds, reference is made to the Kimberley Certificate of the underlying rough 
+diamond.
+12/26
+Swiss companies and banks can provide their services as in all other regions of Ukraine.
+Swiss companies and banks intending to provide the above-mentioned services in the regions of 
+Donetsk, Kherson, Luhansk and Zaporizhzhia are advised to carefully examine the location of the 
+recipient and/or the sector in which the services will be used, depending on the applicable provision. In 
+case of doubt, Swiss companies and banks may contact SECO.
+2.4 Diamonds and diamond products (Art. 14e)
+2.4.1 What are the different steps for the introduction of import bans on diamonds and 
+diamond products from or originating in Russia?
+As of 1 February 2024, it is prohibited to import diamonds and products listed in Annex 27a from or 
+originating in the Russian Federation (Art. 14e para. 1 and 2). The bans on diamonds processed in a 
+third country entered into force on 1 March 2024 for diamonds of at least 1 carat (Art. 14e para. 4). The 
+bans on natural and synthetic diamonds polished in a third country according to Annex 27a numbers 1 
+and 2 weighing 0.5 carat or more or 0.1 gram each came into effect on 1 September 2024 (Art. 14e 
+para. 3).
+2.4.2 What proof of the country of origin of diamonds must be provided when they are 
+imported into Switzerland and indicated in the customs declaration (Art. 14e para. 8)?
+For prohibitions under Article 14e Paragraphs 3 and 4, the following applies: adequate evidence must 
+be provided to prove the non-Russian origin of diamonds and products containing diamonds. In 
+addition to certificates issued by one of the G7 States, the following documents may serve as adequate 
+proof: Kimberley certificates15 , invoices, delivery notes, quality certificates, calculation and production 
+documents, customs documents of the exporting country, trade letters or production descriptions 
+proving the non-Russian origin of the goods. The importer is responsible for the accuracy of the 
+information contained in the above documents.
+The proof must be entered as a document (document code L147) in the "Documents" section of the 
+customs declaration. The document must be presented on request to the Federal Office of Customs 
+and Border Security (FCO) together with the other accompanying customs documents. Until 31 August 
+2024, no proof is required for diamonds listed in Annex 27a, Number 1, weighing less than 1.0 carat 
+per diamond. However, the document code L147 must be declared and completed with the words "no 
+proof, less than 1 carat".
+2.4.3 What evidence must be provided when importing diamonds and products containing 
+diamonds from Russia or of Russian origin - including diamonds processed in a third country 
+- that were already in Switzerland or in the EU or in a third country other than the Russian 
+Federation before the respective bans came into force ('grandfathered goods')?
+According to Article 14e( 6a), exemptions to paragraphs 1, 3 and 4 apply if it is proved that the goods 
+were already physically present in Switzerland or in the European Union before the entry into force of 
+the respective prohibition and that they were subsequently exported to a third country other than the 
+Russian Federation or, in the case of processed goods, that they were physically present, processed or 
+manufactured in a third country other than the Russian Federation before the entry into force of the 
+respective prohibition.
+Customs documents, invoices or purchase receipts may be used as evidence for this purpose. Such 
+evidence is intended to prove the facts described above, irrespective of the origin of the diamonds or 
+products containing diamonds.
+13/26
+Companies wishing to export or re-export diamonds or products containing diamonds are advised to 
+inform themselves about the legal requirements and guidelines of the destination countries. The (re-
+)export of these products to EEA or G7 states is not subject to any restrictions in Switzerland.
+2.4.4 Are Kimberley certificates sufficient for the import of rough diamonds (customs tariff 
+headings 7102 10 00 and 7102 31 00)?
+If the Kimberley Certificate clearly indicates the origin of rough diamonds, it can be accepted as 
+evidence. If the certificate contains the indication 'mixed origin', additional proof must be provided (see 
+question 2.4.2).
+2.4.5 Does the weight referred to in paragraphs 3 and 4 refer to polished diamonds or rough stones?
+The weight refers to goods presented at the time of their introduction into Switzerland (polished 
+diamonds or rough diamonds).
+2.4.6 Does the ban also apply to industrial diamonds and products containing industrial diamonds?
+The prohibition applies to customs tariff headings 7102.10, 7102.31 and 7102.39 listed in Annex 27a. 
+Industrial diamonds (Customs Tariff headings 7102.21 and 7102.29) are therefore not included.
+2.4.7 Do the bans also apply to products that have to be imported into Switzerland for repair or 
+improvement?
+Article 14e paragraph 6b provides for exemptions from the prohibitions on the provision of services in 
+Article 14e paragraph 5 for products in Annex 27a number 3 manufactured before 1 September 2024. 
+Temporary use in Switzerland, e.g. to provide repair services or for inward and outward processing, 
+therefore remains permitted if the goods were declared under the corresponding customs procedure 
+upon import into Switzerland or export from Switzerland and were not temporarily imported or exported 
+from the Russian Federation.
+2.5 Contractual obligation to prevent re-exportation (Art. 14f)
+2.5.1 What is meant by 'appropriate corrective measures' according to paragraph 2 of 
+the provision?
+To ensure its effectiveness, the contractual clause to prevent re-export to Russia must contain 
+appropriate corrective measures to be applied in the event of a breach. These measures should be 
+sufficiently effective and dissuasive for companies outside Switzerland. Adequate corrective measures 
+are, for example, the termination of the contract or the payment of a penalty in the event of a breach of 
+contract.
+2.5.2 Do contracts have to contain specific wording?
+Economic operators are free to choose an appropriate wording for the clause, provided that the result 
+satisfies the requirements of Article 14f. In any event, it is recommended to specify that the clause is an 
+essential element of the contract.
+The following template, available in Italian and English, can serve as a reference:
+"(1) The [importer/purchaser] shall not sell, export or re-export, directly or indirectly, to or for use in the 
+Russian Federation any goods supplied under or in connection with this contract that fall within the 
+scope of Article 14f of the Ordinance Establishing Measures in Connection with the Situation in Ukraine 
+(RS 946.231.176.72).
+14/26
+(2) The [importer/purchaser] undertakes, to the best of its knowledge and belief, to ensure that the 
+purpose of subsection (1) is not violated by third parties downstream in the chain of trade, including 
+potential resellers.
+(3) The [importer/buyer] shall establish and maintain an appropriate monitoring mechanism to detect 
+the behaviour of third parties down the chain of trade, including potential resellers, that may violate the 
+purpose of subsection (1).
+(4) Any breach of subsection (1), (2) or (3) shall constitute a material breach of an essential element of 
+this contract and the [exporter/seller] shall be entitled to seek appropriate remedies, in particular: (i) 
+termination of this contract and (ii) payment of a penalty equal to the
+[XX] % of the total value of this contract or of the price of the exported goods, whichever is higher.
+(5) The [importer/buyer] shall promptly inform the [exporter/vendor] of any problems with the 
+application of sub-paragraphs (1), (2) or (3), including any relevant activities of third parties that could 
+violate the purpose of sub-paragraph (1). Upon request, the [importer/purchaser] shall provide the 
+[exporter/vendor] within two weeks with information on compliance with the obligations set out in 
+subparagraphs (1), (2) and (3) ."
+***
+"(1) The [Importer/Buyer] shall not sell, export or re-export, directly or indirectly, to the Russian 
+Federation or for use in the Russian Federation any goods supplied under or in connection with this 
+Agreement that fall under the scope of Article 14f of the Ordinance imposing Measures in Connection 
+with the Situation in Ukraine (SR 946.231.176.72).
+(2) The [Importer/Buyer] shall undertake its best efforts to ensure that the purpose of paragraph (1) is 
+not frustrated by any third parties further down the commercial chain, including by possible resellers.
+(3) The [Importer/Buyer] shall set up and maintain an adequate monitoring mechanism to detect 
+conduct by any third parties further down the commercial chain, including by possible resellers, that 
+would frustrate the purpose of paragraph (1).
+(4) Any violation of paragraphs (1), (2) or (3) shall constitute a material breach of an essential element 
+of this Agreement, and the [Exporter/Seller] shall be entitled to seek appropriate remedies, including, 
+but not limited to: (i) termination of this Agreement; and (ii) a penalty of [XX]% of the total value of this 
+Agreement or price of the goods exported, whichever is higher.
+(5) The [Importer/Buyer] shall immediately inform the [Exporter/Seller] about any problems in applying 
+paragraphs (1), (2) or (3), including any relevant activities by third parties that could frustrate the 
+purpose of paragraph (1). The [Importer/Buyer] shall make available to the [Exporter/Seller] information 
+concerning compliance with the obligations under paragraphs (1), (2) and (3) within two weeks of the 
+simple request for such information".
+2.6 Freezing of assets and economic resources and reporting obligation (Art. 
+15 and 16)
+2.6.1 Do securities held by the National Settlement Depository (NSD; SSID: 175-55580) fall 
+under the freezing of assets according to Article 15 para. 1 of the Ordinance?
+No. Assets owned, held or controlled by the NSD must be blocked. However, assets - including 
+securities - that are only deposited with the NSD are not affected by the freezing of assets under Article 
+15 para. 1.
+15/26
+It should also be noted that the NSD is subject to the prohibition to provide assets and economic 
+resources according to Article 15 para. 2. Therefore, all activities involving, directly or indirectly, the 
+payment of commissions to the NSD or the provision of other funds or economic resources to it or for 
+its benefit are prohibited.
+2.6.2 Does the sale of Russian securities held by the NSD fall within the prohibition of making 
+available under Article 15 para. 2 of the Ordinance?
+All activities which involve, directly or indirectly, the payment of commissions to the NSD or the 
+provision of other funds or economic resources to it or for its benefit fall within the prohibition on 
+making available under Article 15 para. 2 of the Ordinance and are prohibited. It is therefore not 
+permitted to sell Russian securities held by the NSD and where the NSD directly or indirectly receives 
+commissions.
+2.6.3 For which operators can SECO grant an exemption in accordance with Article 15 
+para. 5b c of the Ordinance?
+With respect to the carrying out by the Russian Federation of compulsory transfers of ownership in or 
+control over a legal person, organisation or body established in the Russian Federation that was 
+previously owned by a legal person, organisation or body established in Switzerland, an EEA Member 
+State or the United Kingdom, SECO may authorise the release of certain blocked assets or economic 
+resources or that certain assets or economic resources be provided to a natural or legal person, 
+organisation or body in accordance with Article 15 paragraph 1 of the Ordinance. This possibility of 
+authorisation is applicable only to operators who have been included in Annex I to Regulation (EU) 
+269/2014 on the basis of the criterion of inclusion in the list specified in Article 3(1)(j) of that Regulation.
+2.6.4 Pursuant to Article 15 para. 8c of the Ordinance, SECO may grant an exceptional 
+authorisation for the provision of the NSD in connection with the sale of Russian securities, 
+provided that the conditions of Article 15 para. 8c letters a-e of the Ordinance are met. May a 
+bank in Switzerland disclose the identity of end-investors to a Russian trustee, custodian or 
+manager in order to have dividends from Russian shares or depositary receipts credited to 
+an omnibus or individual account in Russia? Can a bank in Switzerland assist its clients in 
+opening an omnibus or individual account in Russia?
+The disclosure of client data is not covered by the Ordinance, provided that other requirements (in 
+particular banking secrecy) are met. A Swiss bank may assist its clients in opening accounts with 
+Russian banks, provided it is not a bank subject to the provisions of Article 15 (freezing of assets and 
+economic resources) or Article 24a (prohibition of transactions with state-owned enterprises).
+2.6.5 Can a bank in Switzerland accept payments from such omnibus or individual accounts?
+Yes, payments of incoming dividends from issuing institutions subject to Article 15 (freezing of assets 
+and economic resources) or Article 24a (prohibition of transactions with state-owned enterprises) of the 
+Ordinance should only be blocked or rejected if the payment is made directly by the sanctioned issuing 
+institution (see previous answer). Payments from omnibus or individual accounts with non-sanctioned 
+Russian banks can be accepted.
+2.6.6 Does the notification obligation in Article 16 para. 1a apply to all existing entries in 
+Annex 8?
+Pursuant to Article 16 para. 1bis of the Ordinance, natural persons and institutions that hold or 
+administer assets or have knowledge of economic resources owned or under the control of natural 
+persons, companies or organisations listed i n  Schedule 8 must notify
+16/26
+without delay to SECO all transactions carried out in the two weeks prior to the inclusion of such 
+persons, companies or organisations in Appendix 8. The duty of notification applies both to existing 
+entries in Appendix 8 of the Ordinance and to all future entries in Appendix 8.
+The reporting obligation covers information on any movement, transfer, alteration, use, access or 
+manipulation of assets of the natural persons, undertakings or organisations listed in Schedule 8 of the 
+Ordinance in the two weeks preceding the sanction. It is assumed that this information is already 
+available, usually in existing registers and documents. There is no obligation to conduct further 
+investigations, apart from checking existing registers and documents.
+The relevant notifications to SECO are made exclusively via the transaction table, which can be 
+obtained from SECO upon request by e-mail (sanctions@seco.admin.ch), and transmitted 
+electronically, preferably via the FDJP-certified PrivaSphere Secure Messaging or by file transfer.
+For entries in Annex 8 made before 1 December 2023, the deadline for the notification obligation is 29 
+March 2024.
+2.7 Prohibition on accepting deposits and assets based on 
+cryptocurrencies and related reporting obligations (Art. 20 and 21)
+Who are Articles 20 and 21 addressed to?
+2.7.1 Are the provisions also applicable to all banks under the Banking Act?
+Switzerland has joined the EU sanctions against Russia. Council Regulation (EU) 2022/328 of 25 
+February 2022 stipulates that all credit institutions are subject to the corresponding measure. 
+Accordingly, the provisions of Articles 20 and 21 of the Ordinance also apply to all persons and 
+organisations that accept deposits and grant credits on a professional basis, such as banks under the 
+Banking Act.
+2.7.2 Are insurance companies subject to Articles 20 and 21 of the Ordinance?
+In principle, insurance does not fall under Articles 20 and 21 of the Ordinance. Exceptions are deposits 
+with a bank as part of a life insurance policy as well as deposits in pillar 3a accounts. If the beneficial 
+owner falls under Article 20 para. 1 of the Ordinance, such deposits are subject to the provisions of 
+Articles 20 and 21.
+How should declarations be made according to Article 21?
+2.7.3 Does the exemption in Article 20 para. 3 for Swiss nationals, nationals of an EEA Member 
+State and natural persons holding a temporary or permanent residence permit from 
+Switzerland or an EEA Member State also apply in the context of the obligation to declare 
+under Article 21 of the Ordinance?
+Yes. The duty to declare under Article 21 of the Ordinance applies only to business relationships that 
+fall under Article 20 para. 1 and 2 of the Ordinance. If the exemption in Article 20 para. 3 applies to a 
+business relationship, the latter does not have to be declared either.
+17/26
+2.7.4 What information must parties subject to the Act provide to SECO in implementation of 
+the duty to declare pursuant to Article 21 of the Ordinance? Is the same information 
+required as for notifications according to Article 16 of the Ordinance?
+Reporting according to Article 21 of the Ordinance must be distinguished from reporting on blocked 
+assets according to Article 16 of the Ordinance. Existing deposits exceeding CHF 100,000 must be 
+reported to SECO in aggregate form (i.e. both the number of business relationships and the sum of 
+current balances.
+2.7.5 In what format should the declaration be made? Is there a form?
+The notification must be made exclusively electronically, e.g. via Privasphere or by means of a file 
+transfer to the e-mail address sanctions@seco.admin.ch. For this purpose, a standard form (Excel) is 
+available on the SECO website.
+How is the CHF 100,000 limit calculated?
+2.7.6 Does the acceptance of 'corporate actions' (dividends, coupons, etc.) fall under 
+Article 20 of the Ordinance?
+No. Corporate actions (dividends, coupons, etc.) in connection with securities deposited in 
+corresponding business relationships may be accepted even if the limit of CHF 100,000 per person or 
+organisation is exceeded.
+2.7.7 Does interest on deposits fall under Article 20 of the Ordinance?
+No. Interest on existing deposits held by the bank prior to the entry into force of the Ordinance is not 
+considered a new deposit under Article 20 para. 1 and may therefore be credited even if the limit of 
+CHF 100,000 per person or organisation is exceeded.
+2.7.8 Do securities and their custody fall under Article 20 of the Ordinance? Can the proceeds 
+from the sale of securities booked in the corresponding customer relationship be accepted 
+even if the limit of CHF 100,000 is exceeded?
+Deposit and safekeeping of securities do not fall within the definition of "deposits" according to Article 
+20 of the Ordinance. Proceeds from the sale of securities deposited in the corresponding business 
+relationship may be accepted even if the limit of CHF 100,000 per person or organisation is exceeded.
+2.7.9 Do refunds or payments from state bodies (taxes, contributions from compensation 
+funds, etc.) or pension funds fall under Article 20 of the Ordinance? Can such 
+payments be accepted even if they exceed the CHF 100,000 limit?
+Acceptance of refunds or payments by state bodies (e.g. tax authorities, compensation funds) or by 
+pension funds does not fall within the definition of 'deposits' under Article 20 of the Ordinance. Such 
+repayments or payments may be accepted even if they exceed the limit of CHF 100,000 per person or 
+body. The prohibition also does not apply to the receipt of pension assets by the pension fund (vested 
+benefits) that are booked in vested benefit accounts.
+2.7.10 Can payments used to repay loans be accepted even if they exceed the CHF 100,000 
+limit?
+Yes. Deposits that are immediately debited for the repayment of outstanding loans do not fall within the 
+definition of 'deposits' under Article 20 of the Ordinance. Consequently, such payments may be 
+accepted even if they exceed the limit of CHF 100,000 per person or organisation.
+18/26
+2.7.11 Does the CHF 100,000 limit only apply to new deposits? Or does it apply to the total amount 
+of deposits?
+The limit of CHF 100,000 per person or organisation refers to the total amount of deposits per 
+customer with the respective bank or institution. For example, if a customer has existing deposits of 
+CHF 80 000, a maximum of CHF 20 000 in deposits can still be accepted. If, on the other hand, he has 
+existing deposits of CHF 110,000, no further deposits can be accepted.
+2.7.12 How does the limit of CHF 100,000 apply to natural persons who are the beneficial owners 
+of (more than) one legal entity with which a bank has a business relationship and who may 
+possibly have a private account?
+The limit of CHF 100,000 applies to each legal entity. If the beneficial owner of several legal entities 
+has its own account with the same bank, the limit is calculated separately. If it has two or more 
+accounts in its own name, the total of its assets is calculated instead (analogous to the accounts of the 
+same legal entity). This sum may not exceed the limit o f  CHF 100,000.
+2.7.13 Do negative account balances have to be notified?
+No.
+Which natural persons are covered by Article 20 of the Ordinance?
+2.7.14 Do Swiss-Russian dual nationals fall under the exemption according to Art. 20 para. 3 of the 
+Ordinance? What about dual nationals of Russia and the EEA? What about dual nationals of 
+Russia and a third country?
+Do persons with a residence permit in Switzerland or the EEA fall under the exemption according to 
+Article 20 para. 3 of the Ordinance?
+According to Article 20 paragraph 3 of the Ordinance, the prohibitions in Article 20 paragraphs 1 and 2 
+do not apply to Swiss nationals, nationals of an EEA Member State and natural persons holding a 
+temporary or permanent residence permit issued by Switzerland or an EEA Member State. It follows 
+that dual Swiss-Russian nationals and persons holding both Russian and EEA Member State 
+nationality are not affected by the prohibition in Article 20 of the Ordinance. On the other hand, persons 
+holding both Russian nationality and the nationality of another third country outside the EEA are 
+affected by the prohibition in Article 20.
+2.7.15 Do persons who hold Monegasque, Andorran or British nationality or who hold a residence 
+permit in the Principality of Monaco, the Principality of Andorra or the United Kingdom fall 
+within the exception provided for in Article 20(3) of the Ordinance?
+Monegasque, Andorran and United Kingdom nationals and natural persons holding a temporary or 
+permanent residence permit issued by the Principality of Monaco, the Principality of Andorra or the 
+United Kingdom shall not be subject to the prohibition referred to in Article 20.
+2.7.16 Does a person of Russian nationality who is awaiting the renewal or extension of a 
+residence permit no longer fall under the exemption in Article 20 paragraph 3?
+If the person of Russian nationality can prove that he/she has submitted a timely application for 
+renewal or extension of his/her residence permit to the migration authorities in Switzerland, an EEA 
+Member State, the United Kingdom, Monaco, Andorra, a
+19/26
+Gibraltar, the Isle of Man or the Channel Islands, and that the process is still ongoing by the authorities, 
+continues to fall under the exemption.
+It is the bank's responsibility to regularly check whether customers meet the requirements and to 
+ensure compliance with the ordinance.
+2.7.17 Are accounts held jointly with a Russian person subject to the prohibitions of 
+Article 20 of the Ordinance?
+If a Russian person holds an account jointly with a person from a third country, the account is subject to 
+the prohibitions of Article 20 of the Ordinance. However, if the account is held jointly with a person 
+falling within the scope of the exemption under Article 20 para. 3 (see previous question), the 
+prohibitions do not apply.
+2.7.18 Do Russian consular and diplomatic representations in Switzerland fall under Article 
+20 of the Ordinance?
+No. Consular and diplomatic representations of the Russian Federation in Switzerland are not 
+subject to the prohibition because, according to Article 20 paragraph 1 of the Ordinance, they 
+are not
+"organisations established in the Russian Federation" nor of "organisations established outside 
+Switzerland". Therefore, these institutions may accept deposits despite the restrictions in this 
+article.
+Which legal persons are covered by Article 20 of the Ordinance?
+2.7.19 Do trusts with a Russian person as trustor or beneficiary fall under Article 20 of 
+the Ordinance?
+No, trusts with a Russian person as trustor or beneficiary do not fall under Article 20 of the Ordinance.
+2.7.20 Does a company established outside Switzerland or the EEA in which a Russian person 
+or a person resident in the Russian Federation is a majority shareholder fall under Article 
+20 of the Ordinance?
+Yes, pursuant to Article 20(1)(d) of the Ordinance, the accounts of operating companies established 
+outside Switzerland and the EEA in which a Russian national or a natural person resident in the 
+Russian Federation owns - directly or indirectly - more than 50 per cent of the ownership rights fall 
+within the scope of Article 20 of the Ordinance.
+On the other hand, the prohibitions in Article 20 para. 1 of the Ordinance do not apply to banks, 
+companies or organisations established outside Switzerland and the EEA and whose ownership rights 
+are directly or indirectly held by more than 50 per cent by Russian citizens or natural persons residing 
+in the Russian Federation who hold Swiss citizenship or citizenship of an EEA country, or hold a Swiss 
+residence permit or a residence permit of an EEA country.
+20/26
+2.7.21 Do funds domiciled outside Switzerland or the EEA that are equivalent to an organisation 
+and in which a Russian citizen or natural person resident in the Russian Federation holds 
+more than 50 per cent of the ownership rights (or an equivalent shareholding as an investor) 
+fall under Article 20 of the Ordinance?
+Yes, they fall under Article 20 para. 1 letter d of the Ordinance. In addition, according to Article 23, it is 
+prohibited to sell units in collective funds offering exposure to securities denominated in Swiss francs or 
+in the official currency of an EU member state, to Russian citizens or natural persons resident in the 
+Russian Federation or to banks, companies or organisations established in the Russian Federation.
+Do Russian consular and diplomatic representations in Switzerland fall under Article 20 of the 
+Ordinance?
+No. Consular and diplomatic representations of the Russian Federation in Switzerland are not subject 
+to the prohibition as, according to Article 20 paragraph 1 of the Ordinance, they are neither 
+'organisations established in the Russian Federation' nor 'organisations established outside 
+Switzerland'. Therefore, these institutions can accept deposits despite the restrictions in this article.
+Other questions
+2.7.22 Can people with Russian citizenship withdraw deposits?
+Article 20 of the ordinance prohibits the acceptance of new deposits if the total value of deposits 
+exceeds CHF 100,000. Existing deposits - regardless of their current amount - may be freely used and 
+also withdrawn.
+2.7.23 Can transfers be made within a bank even if this means that the credit account exceeds 
+the CHF 100,000 limit?
+It is possible to make internal transfers within a bank between different accounts of the same Russian person.
+2.7.24 Do accounts that do not belong to a Russian person but which a Russian person has the 
+right to dispose of fall under Article 20 of the Ordinance?
+No. As long as the Russian person does not own the account but only manages it, Article 20 of the 
+Ordinance does not apply.
+2.7.25 Do the deposits required for non-prohibited cross-border trade in goods and services 
+between Switzerland and the Russian Federation, between Switzerland and the EEA and 
+between the EEA and the Russian Federation fall within the prohibitions of Article 20 
+paragraphs 1 and 2?
+Yes, as of 31 August 2022 such deposits fall under the above-mentioned bans. However, by virtue of 
+Article 20 paragraph 4 letter f of the Ordinance, they may be subject to an exemption issued by SECO 
+in agreement with the competent departments of the FDFA and the FDF.
+2.7.26 How should service providers deal with the existing cryptocurrency wallets or 
+cryptocurrency accounts of Russian citizens or natural and legal persons or organisations 
+established in the Russian Federation?
+Article 20 paragraph 2 of the Ordinance prohibits the provision of services in connection with 
+cryptocurrency wallets, cryptocurrency accounts or custody of cryptocurrency-based assets. Therefore, 
+such services may no longer be provided and existing accounts or portfolios must be closed. The 
+freezing of cryptocurrency-based assets is not sufficient. Existing assets must be returned to Russian 
+clients or they can be converted into a fiat currency or other assets not subject to
+21/26
+sanctions. The storage restrictions in Article 20 para. 1 of the Ordinance must be complied with.
+2.8 Prohibition of central depositories from providing certain services (Art. 22)
+2.8.1 Are new securities issued as part of a stock split or stock split on the basis of existing 
+securities subject to the prohibitions of Article 22 para. 1?
+No. New securities issued as part of a stock split or stock split on the basis of existing securities are not 
+subject to the prohibitions of Article 22 para. 1. This interpretation of Article 22 para. 1 applies by 
+analogy to Article 23 para. 1.
+2.9 Prohibition to sell securities (Art. 23)
+2.9.1 Are the securities of a company currently traded on a stock exchange (issued before 12 
+April) subject to the prohibitions of Article 23 if the company has issued new securities after 
+12 April? Or are only newly issued securities after 12 April (e.g. a new bond tranche with its 
+own ISIN number) affected?
+Even 'old' securities that are still valid fall under Article 23 because it is usually impossible to 
+distinguish them from those issued after 12 April. On the contrary, in the case of the creation of a new 
+ISIN number the matter is assessed differently because a distinction can be made. Furthermore, 
+shares that are already on deposit should not be sold. In principle, it is forbidden to sell new securities, 
+i.e. issued after 12 April 2022.
+This interpretation of Article 23 applies by analogy to sectoral sanctions, such as Article 18 of the 
+Ordinance.
+2.9.2 Are securities derivatives (e.g. total return swaps) that allow a client a synthetic exposure to 
+a security without physical delivery of the security also affected by the ban?
+Since the ordinance explicitly speaks of fund shares, such a transaction with the person concerned 
+would be considered a circumvention transaction and would therefore be subject to the prohibition.
+2.9.3 Are fund units within a depository subject to the prohibition of Article 23 if new securities 
+are added to the fund in the event of an underlying?
+These fund shares may be maintained provided they are not sold. The 'retention' of existing fund units 
+is not subject to the prohibition of Article 23.
+2.9.4 Do persons who hold Monegasque, Andorran or British nationality or who hold a residence 
+permit in the Principality of Monaco, the Principality of Andorra or the United Kingdom fall 
+within the exception provided for in Article 23, paragraph 2 of the Ordinance?
+Monegasque, Andorran or United Kingdom nationals and natural persons holding a temporary or 
+permanent residence permit issued by the Principality of Monaco, the Principality of Andorra or the 
+United Kingdom shall not be subject to the prohibition laid down in Article 23.
+22/26
+2.9.5 Can capital requests for private equity investments in which the commitment was made 
+before 12 April 2022 also be fulfilled after that date?
+Yes, because the investment was made irrevocably at the time the financial commitment was made 
+('commitment'). Subsequent capital calls are therefore not a new investment.
+2.10 Prohibition of transactions with the Central Bank of the Russian 
+Federation (Art. 24)
+2.10.1 How must the notifications on reserves and assets be drawn up in accordance with 
+Article 24 para. 3?
+Notifications are made via a special form, made available by SECO (sanctions@seco.admin.ch).
+2.11 Prohibitions on Energy and Mining Enterprises in the Russian 
+Federation (Art. 28b)
+2.11.1 Can ADRs (American Depository Receipts) of Russian companies be exchanged for the 
+corresponding shares?
+Yes, the exchange of ADRs for shares concerns existing participations or existing equity. In this sense, 
+the exchange does not fall under the prohibitions of Article 28b of the Ordinance.
+The exchange of ADRs for shares does not make economic resources available, directly or indirectly, 
+to the Russian companies concerned. The exchange of ADRs in a company sanctioned under Article 
+15 of the Ordinance is therefore not to be regarded as a prohibited provision within the meaning of 
+Article 15 para. 2 of the Ordinance.
+2.11.2 Does the acquisition of existing shares fall within the prohibitions of Article 28b of the Ordinance?
+Yes. Article 28b prohibits the acquisition of new shareholdings or the increase of shareholdings in any 
+legal person, company or organisation established or registered under the law of a state outside 
+Switzerland or the EEA and operating in the energy or mining sector in the Russian Federation; 
+therefore, it is no longer possible to acquire shares in such companies, regardless of when they were 
+issued.
+2.11.3 Does the acquisition of existing bonds fall within the prohibitions of Article 28b of the Ordinance?
+No. Article 28b prohibits the provision of or participation in new loans, credits or other financial 
+resources, including equity capital, to or for the purpose of financing legal persons, companies or 
+organisations incorporated or registered under the laws of a State outside Switzerland and the EEA 
+and active in the energy sector in the Russian Federation. Therefore, participation in new financing 
+involving an inflow of funds (debt or equity financing) falls under the prohibition.
+2.11.4 Is it allowed to invest in a fund that contains securities of companies active in the Russian 
+energy and mining sectors?
+Yes, Article 28b aims to prevent new investments in Russian energy and mining projects. Portfolio 
+investments (participation of less than 10 per cent) within a fund are not covered by this prohibition.
+23/26
+2.12 Prohibitions concerning trusts (Art. 28d)
+Which legal institutions are affected by Article 28d?
+2.12.1 How is the concept of 'neighbouring legal institution' mentioned in Article 28d 
+para. 1 of the Ordinance to be interpreted?
+Legal institutions are to be regarded as related when they have a structure or function similar to that of 
+a trust, such as the creation of a fiduciary relationship between the trustee and the beneficiary or the 
+separation or splitting of the legal and economic ownership of assets.
+2.12.2 Do foundations fall under the term 'related legal institution'?
+Foundations within the meaning of Art. 80 ff. CC - or the corresponding foreign provisions - are 
+deemed to be a 'similar legal institution' under Article 28d of the Ordinance. Foundations domiciled in 
+Switzerland or an EEA member state that pursue non-profit objectives and are subject to supervision, 
+as well as religious foundations domiciled in Switzerland or an EEA member state are exempt.
+2.12.3 Does Section 28d of the Ordinance also apply to existing trusts or only to new ones?
+Article 28d applies to all structures designated as trusts or similar legal arrangements. It is irrelevant 
+whether such structures were set up before or after the entry into force of the Article.
+2.12.4 What rules apply to specific forms such as discretionary trusts?
+The provisions are the same: if the trustor or the beneficiary of the trust is subject to the prohibition, the 
+latter applies in any event, regardless of the form of the trust.
+In the case of a discretionary trust in which the beneficiary subject to the provision is replaced by a 
+person who is not subject to the provision, the previously prohibited trust would again be permitted, 
+provided that the trustor is not himself subject to the prohibition.
+2.12.5 Article 28d para. 27 of the Ordinance speaks of 'trustee, nominee shareholder, 
+administrator, general secretary or similar function'. What is meant by all these 
+descriptions? ?
+Article 28d para. 2 lists a number of functions that may be equated with that of trustee. If a person acts 
+as trustee, i.e. receives instructions from a trustor for the purpose of managing assets on behalf of a 
+beneficiary, that person is treated as a trustee, irrespective of the name of his or her function.
+2.12.6 What services are covered by the prohibition? Does this definition include the provision 
+of bank accounts, securities and payment transactions or similar services for a trust?
+It is prohibited to provide a trust or a related legal institution with management services, including 
+accounting services, which fall under the prohibited direct provision of management services to a trust.
+On the other hand, the most common banking and payment services, such as the provision of a bank 
+account, the execution of payments or currency exchange services, are not prohibited because they 
+are not 'management services' according to Article 28d para. 1 of the Ordinance.
+24/26
+What is meant by control?
+2.12.7 Article 28d para. 1 letter d of the Ordinance mentions the concept of
+'control'. What is meant by this term?
+As in Articles 15 and 20 of the Ordinance, the concept of control must be assessed on a case-by-case 
+basis. To do so, it is decisive to determine whether a legal person, an enterprise or an organisation is 
+under the actual control of one of the persons listed under a-c (see the question "How is the concept of 
+'control' over an enterprise or organisation to be interpreted?" in Chapter 1 of this document).
+What territorial scope is envisaged?
+2.12.8 What reference to Switzerland is necessary for Article 28d of the Ordinance to apply? Are 
+criteria such as the legal form of the trust, the registered office or domicile of the trustee, 
+protectors, beneficiaries and the location of the assets relevant?
+All natural and legal persons established in Switzerland are obliged to comply with the Ordinance, 
+regardless of the registered office of the trust and the parties involved. Therefore, the other criteria are 
+not relevant.
+2.12.9 Does the term "providing a place of business" (Art. 28d para. 1) also cover cases where 
+the trustee's actual management (abroad) and statutory seat (in Switzerland) are 
+different? What is meant by "providing a business or administrative address"?
+Yes, "providing a place of business" means making an address in Switzerland available to the trust. 
+"Providing a business or administrative address", on the other hand, means making available an 
+address in Switzerland that is directly attributable to the trust or can be associated with the trust.
+2.12.10 Does Article 28d of the Ordinance apply to companies established in Switzerland belonging 
+to a trust with a Russian trustor or beneficiary? Can a Swiss stock corporation take care of 
+the accounts for a foreign company that is indirectly (i.e. through a holding company in the 
+trust structure) wholly owned by a trust within the meaning of Article 28d para. 1?
+Article 28d of the Ordinance applies to trusts and related legal institutions while it excludes legal 
+persons owned by a trust or related legal institution under Article 28d. However, undertakings owned 
+by a trust or legal institution may not provide management services to the trust.
+2.12.11 Is there a reference to Russia if in the past the structure was founded by Russian persons 
+within the meaning of Article 28d para. 1 but they no longer have any influence (e.g. as 
+deceased) and there are no Russian citizens among the beneficiaries?
+No. The reference to Russia exists only if a Russian national is currently acting as trustor or beneficiary 
+of the trust or other legal institution concerned.
+2.12.12 If a trust has several beneficiaries and one of them is affected by the prohibition in Article 
+28d, does the trust fall within the scope of the Ordinance?
+Yes, it is sufficient for only one person referred to in Article 28d para. 1 to be subject to the Ordinance 
+for the provisions of Article 28d to apply.
+Example: If there are five non-Russian citizens in a trust and one Russian citizen acting as beneficiary, 
+the trust is subject to the provisions of Article 28d of the Ordinance.
+25/26
+How does the derogation in Article 28d para. 3 apply?
+2.12.13 For the exception to apply, is it necessary that all 'beneficiaries' or all 'trustors' fulfil the 
+conditions of Article 28d para. 3 or is it sufficient that only one or a majority of the 
+beneficiaries fulfil these conditions?
+Similarly to Article 28d para. 1, the trust or similar legal arrangement is subject to the exception in 
+Article 28d para. 3 if even only one of the beneficiaries falls into the categories described.
+Example: If a trust has five beneficiaries of which four have only Russian citizenship and one has dual 
+citizenship of Russia and an EEA member state, the exception applies.
+2.12.14 Does the exception in Article 28d para. 3 of the Ordinance apply if the trustor with Russian 
+nationality holds a temporary or permanent residence permit issued by an EEA member state 
+or Switzerland but his actual domicile is outside this state?
+Yes. The relevant factors are citizenship and/or residence permit, not the location of the trustor. In this 
+case the trust or related legal institution is subject to the exemption because the trustor holds a 
+temporary or permanent residence permit issued by Switzerland or an EEA member state.
+2.12.15 Do persons who hold Monegasque, Andorran or British nationality or who hold a residence 
+permit in the Principality of Monaco, the Principality of Andorra or the United Kingdom fall 
+within the exemption provided for in Article 28d(3) of the Ordinance?
+Monegasque, Andorran and British nationals and natural persons holding a temporary or permanent 
+residence permit issued by the Principality of Monaco, the Principality of Andorra or the United 
+Kingdom are covered by the exemption provided for in Article 28d.
+Is there a transitional period? If so, how is it regulated?
+According to Article 35 para. 18, all Swiss natural and legal persons providing a registered office, 
+business or administrative address and management services to a trust have a transitional period to 
+fulfil the requirements of the Ordinance, which expires on 31 July 2022.
+2.12.16 What happens if it is not possible to terminate within the transitional period a contract 
+concerning the provision of a service prohibited under Article 28d of the Ordinance?
+The prohibition on acting, or arranging for another person to act, as trustee, nominee shareholder, 
+administrator, secretary-general or in a similar capacity, for a trust or similar legal arrangement came 
+into force again on 1 August 2022 (the corresponding provision in Art. 28d para. 2 was previously 
+temporarily repealed). Pursuant to Section 28d para. 5 lit. a (which entered into force on 1 August 
+2022), SECO may authorise exemptions from the prohibition in Section 28d para. 2 in order to permit 
+the continuation of services to carry out transactions necessary to terminate contracts entered into prior 
+to 28 April 2022 that are incompatible with Section 28d of the Ordinance, provided that such 
+transactions have been commenced prior to 30 May 2022 and concluded by 1 October 2022.
+26/26
+2.13 Prohibitions concerning services (Art. 28e)
+2.13.1 Does the exemption in Article 28e para. 2 lit. a apply to legal persons, undertakings or 
+organisations established in Russia that are indirectly owned or controlled, exclusively or 
+jointly, by legal persons, undertakings or organisations incorporated or registered under 
+Swiss law, the law of an EEA Member State or the law of a partner?
+The exemption under Article 28e para. 2 lit. a shall apply where the provision of services is intended for 
+the exclusive use by legal persons, companies or organisations established in Russia which are 
+ultimately owned or controlled by a legal person, company or organisation of the EEA, Switzerland or a 
+partner referred to in Article 1 lit. f.
+Accordingly, the exemption in Article 28e para. 2 letter a applies where, for example, the Russian 
+organisation using the services is owned by an organisation which is not established in Russia, an EEA 
+Member State, Switzerland or one of its Article 1 letter f partners, but is ultimately owned or controlled 
+by an enterprise of an EEA Member State, Switzerland or one of its Article 1 letter f partners.
+The exemption in Article 28e para. 2 lit. a, on the other hand, does not apply if, for example, the 
+Russian organisation using the services is owned or controlled by a company in the EEA, Switzerland 
+or a partner of Switzerland referred to in Article 1 lit. f and that company is in turn owned or controlled 
+by a Russian company or a company of another jurisdiction (outside the EEA, Switzerland or a partner 
+of Switzerland referred to in Article 1 lit. f).
+2.13.2 In agreement with the competent departments of the FDFA and the FDFA and pursuant to 
+Article 28e para. 3, SECO may authorise exceptions to the prohibitions in Article 28e para. 
+1d?
+Yes, SECO may authorise derogations from the prohibitions in Article 28e para. 1d, if this is necessary 
+for one of the purposes referred to in Article 28e para. 3.
+2.13.3 Does the exemption in Article 28e para. 2 lit. a also apply to the provision of services of all 
+kinds according to Article 28e para. 1d?
+Yes, the exemption also applies to the provision of services in connection with the services or software 
+referred to in subparagraph 1-1c or in connection with the sale, export, transit, transportation or making 
+available of such services or software to or for use in the Russian Federation, provided that the 
+conditions of Article 28e(2)(a) or (b) are met.
+2.13.4 In what format must notifications according to Article 28e para. 6 in conjunction with para. 7 
+be drafted? Is there a special form?
+Notifications are made exclusively electronically, e.g. via Privasphere or by means of a file transfer to 
+the e-mail address sanctions@seco.admin.ch. For this purpose, a standard form (Excel) is available on 
+the SECO website.
