@@ -10,6 +10,8 @@ from langchain_openai import OpenAIEmbeddings
 from langchain_pinecone import PineconeVectorStore
 from pinecone import Pinecone
 import os
+import uuid
+
 
 # Pinecone setup
 PINECONE_API_KEY = "pcsk_oH4Du_4NfvagbXjtFHAQUueaqWQvNi347chn8PVXBXcEyiNopECT6M6woxvBrVLVeVz2A" 
@@ -19,14 +21,14 @@ os.environ["OPENAI_API_KEY"] = "sk-proj-Hfk-riD1Mt9vG6354QTI4x40MUm-uKE7tmRgBf3s
 os.environ["PINECONE_API_KEY"] = "pcsk_oH4Du_4NfvagbXjtFHAQUueaqWQvNi347chn8PVXBXcEyiNopECT6M6woxvBrVLVeVz2A"
 
 store = {}
-system_prompt = read_file('system_prompt.txt')
+
 # Initialize Pinecone
 pc = Pinecone(api_key=os.environ["PINECONE_API_KEY"])
 
 # Initialize OpenAI model
 llm = ChatOpenAI(
     openai_api_key=os.environ["OPENAI_API_KEY"],
-    model='gpt-3.5-turbo'
+    model='gpt-4o'
 )
 
 def read_file(file_name):
@@ -78,6 +80,9 @@ retriever_tool = create_retriever_tool(
 
 tools = [retriever_tool]
 
+#system_prompt = read_file('system_prompt.txt')
+system_prompt = read_file('system_prompt_main.txt')
+
 prompt = PromptTemplate(
         template=system_prompt,
         input_variables=[   "input", 
@@ -103,8 +108,11 @@ agent_with_chat_history = RunnableWithMessageHistory(
 )
 
 def chat():
-    user_message = "What kind of fitness equipment is included into well-being coverage?"
-    user_id = 1
+    # user_message = "What kind of fitness equipment is included into well-being coverage?"
+    # user_message = "Are Tubes sanctioned goods?"
+    # user_message = "Are luxury cosmetics goods sanctioned in Switzerland?"
+    user_message = "Make a list of all of the communications that a bank should do in relation to the sanctions?"
+    user_id = uuid.uuid4()  # Generates a unique UUID
 
     result = agent_with_chat_history.invoke({"input": user_message}, config={"configurable": {"session_id": user_id}})
     response = result["output"]
