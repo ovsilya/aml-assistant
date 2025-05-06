@@ -17,8 +17,8 @@ import uuid
 # PINECONE_API_KEY = "pcsk_oH4Du_4NfvagbXjtFHAQUueaqWQvNi347chn8PVXBXcEyiNopECT6M6woxvBrVLVeVz2A" 
 PINECONE_ENVIRONMENT = "us-east-1"
 INDEX_NAME = "aml-assistant"
-os.environ["OPENAI_API_KEY"] = "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"
-os.environ["PINECONE_API_KEY"] = "pcsk_oH4Du_4NfvagbXjtFHAQUueaqWQvNi347chn8PVXBXcEyiNopECT6M6woxvBrVLVeVz2A"
+os.environ["OPENAI_API_KEY"] = ""
+os.environ["PINECONE_API_KEY"] = ""
 
 store = {}
 
