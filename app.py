@@ -14,7 +14,6 @@ import uuid
 
 
 # Pinecone setup
-# PINECONE_API_KEY = "pcsk_oH4Du_4NfvagbXjtFHAQUueaqWQvNi347chn8PVXBXcEyiNopECT6M6woxvBrVLVeVz2A" 
 PINECONE_ENVIRONMENT = "us-east-1"
 INDEX_NAME = "aml-assistant"
 os.environ["OPENAI_API_KEY"] = ""
