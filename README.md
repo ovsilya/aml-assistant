@@ -1,105 +1,100 @@
-# AML Assistant - RAG-Based Compliance Chatbot
+# AML Assistant — RAG Compliance Chatbot (Swiss AML & Sanctions)
+
+A Retrieval-Augmented Generation (RAG) assistant that answers **Anti-Money-Laundering (AML) and sanctions** regulatory questions for the Swiss banking industry. It grounds a **GPT-4o tool-calling agent** in a **Pinecone**-indexed corpus of regulatory PDFs, so compliance professionals get fast, source-backed answers instead of manually searching dense regulation.
+
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Architecture](#architecture)
+- [Ingestion Pipeline](#ingestion-pipeline-vector_storepy)
+- [Conversational Agent](#conversational-agent-apppy)
+- [Project Structure](#project-structure)
+- [Environment Variables](#environment-variables)
+- [Setup & Usage](#setup--usage)
+- [Tech Stack](#tech-stack)
 
 ## Overview
-The **AML Assistant** is a Retrieval-Augmented Generation (RAG) system designed for the **Swiss Banking industry** to help compliance officers and professionals answer queries related to **Anti-Money Laundering (AML)** and **Sanctions regulations**. The system leverages **LLMs** and **vector search** to retrieve relevant information from a knowledge base and provide intelligent responses.
+
+The system has two parts:
+1. an **ingestion pipeline** (`vector_store.py`) that loads regulatory PDFs from Google Drive, chunks and embeds them, and indexes them in Pinecone; and
+2. a **conversational agent** (`app.py`) — a command-line chat loop where a GPT-4o tool-calling agent retrieves relevant regulation on demand and answers in context, with session memory.
 
 ## Features
-- **RAG (Retrieval-Augmented Generation) architecture** for improved contextual answers.
-- **Vector store similarity search** using **Pinecone** for fast and efficient information retrieval.
-- **Integration with OpenAI's GPT-4o** for natural language processing.
-- **Chat history management** for maintaining user session context.
-- **PDF document ingestion and processing** from Google Drive.
-- **Custom prompt engineering** for compliance-related queries.
-- **Tool-based agent interaction** for dynamic and intelligent responses.
 
-## Technology Stack
-- **Programming Language:** Python
-- **Frameworks/Libraries:**
-  - LangChain (Agents, Tools, Runnables)
-  - OpenAI (LLM & Embeddings)
-  - Pinecone (Vector Database)
-  - Flask (for API Deployment)
-- **Infrastructure:**
-  - Google Drive (for document storage)
-  - Google Cloud Platform (GCP) (Deployment & Storage)
+- **RAG architecture** for contextual, source-grounded answers.
+- **Tool-calling agent** (LangChain) that decides when to query the knowledge base.
+- **Pinecone** serverless vector search with a similarity **score threshold** to filter low-relevance context.
+- **Source traceability** — file id/name metadata carried on every chunk (important for compliance/citation).
+- **PDF ingestion from Google Drive** via a GCP service account.
+- **Session-based chat history** for multi-turn context.
+- **Compliance-focused prompt engineering.**
 
-## Installation
-### Prerequisites
-Ensure you have Python 3.8+ installed and set up a virtual environment:
-```bash
-python3 -m venv venv
-source venv/bin/activate   # On MacOS/Linux
-venv\Scripts\activate     # On Windows
+## Architecture
+
+```
+Google Drive (regulatory PDFs)
+        │  (service account, recursive folder scan)
+        ▼
+  PyPDFLoader → RecursiveCharacterTextSplitter (chunk 500 / overlap 100)
+        │  + metadata (file id, filename)
+        ▼
+  OpenAI text-embedding-3-small (1536-dim)  →  Pinecone index "aml-assistant"
+                                               (serverless, cosine, AWS us-east-1)
+        ▲
+        │ retriever tool (similarity score threshold, k=5, threshold=0.3)
+        │
+  GPT-4o tool-calling agent (LangChain AgentExecutor)
+        │  + RunnableWithMessageHistory (per-session ChatMessageHistory)
+        ▼
+   CLI chat loop (app.py)
 ```
 
-### Clone the Repository
-```bash
-git clone <repository_url>
-cd <repository_directory>
-```
+## Ingestion Pipeline (`vector_store.py`)
 
-### Install Dependencies
-```bash
-pip install -r requirements.txt
-```
+1. Authenticate to **Google Drive** with a GCP service account; recursively find PDFs.
+2. Download each PDF and parse with **`PyPDFLoader`**.
+3. Chunk with **`RecursiveCharacterTextSplitter`** (size 500, overlap 100); attach `file id` + `filename` metadata.
+4. Embed with **`text-embedding-3-small`** (1536-dim).
+5. Create the Pinecone **serverless** index `aml-assistant` if it doesn't exist (dimension 1536, **cosine**, AWS `us-east-1`), wait until ready, and upsert.
 
-## Environment Variables
-Create a `.env` file or set environment variables manually:
-```bash
-export OPENAI_API_KEY='your-openai-api-key'
-export PINECONE_API_KEY='your-pinecone-api-key'
-export PINECONE_ENVIRONMENT='us-east-1'
-```
+## Conversational Agent (`app.py`)
 
-## Pinecone Setup
-The system uses Pinecone for vector storage. Ensure you have a Pinecone index created and update the environment variables accordingly.
-```python
-from pinecone import Pinecone
-pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
-index = pc.Index("aml-assistant")
-```
-
-## Running the Application
-To start the chatbot, run:
-```bash
-python main.py
-```
+- **Agent:** LangChain **tool-calling agent** (`create_tool_calling_agent` + `AgentExecutor`).
+- **Retriever tool:** built on the Pinecone vector store — search type *similarity score threshold*, `k=5`, `score_threshold=0.3`.
+- **Memory:** `RunnableWithMessageHistory` (`input_messages_key="input"`, `history_messages_key="chat_history"`); in-memory `ChatMessageHistory` per session (UUID session ids).
+- **Prompts:** system prompt from `system_prompt_main.txt`; tool prompt from `search_tool_prompt.txt`.
+- **Entrypoint:** a `chat()` CLI loop.
 
 ## Project Structure
+
+- `app.py` — CLI conversational agent (GPT-4o + retriever tool + session memory).
+- `vector_store.py` — Google Drive → Pinecone ingestion pipeline.
+- `system_prompt_main.txt`, `system_prompt.txt` — system prompts.
+- `search_tool_prompt.txt` — retriever tool prompt.
+
+## Environment Variables
+
+- **`OPENAI_API_KEY`** — OpenAI (GPT-4o + embeddings).
+- **`PINECONE_API_KEY`** — Pinecone vector database.
+
+(A GCP service-account credential file is also required for Google Drive access.)
+
+## Setup & Usage
+
+```bash
+git clone https://github.com/ovsilya/aml-assistant.git
+cd aml-assistant
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+# set OPENAI_API_KEY, PINECONE_API_KEY, and provide the GCP service-account file
+
+# 1) build / update the vector index from Google Drive PDFs
+python vector_store.py
+
+# 2) start the compliance chat assistant
+python app.py
 ```
-├── data/                     # Folder containing processed knowledge base files
-├── src/
-│   ├── main.py               # Main chatbot script
-│   ├── utils.py              # Utility functions
-│   ├── retriever.py          # Vector store and retriever logic
-│   ├── agent.py              # LangChain agent setup
-│   ├── chat_history.py       # Chat session management
-│   ├── system_prompt_main.txt # Custom system prompt
-├── requirements.txt          # List of dependencies
-├── README.md                 # Project documentation
-```
 
-## How It Works
-1. **Data Processing:** PDFs are stored in Google Drive, converted to text, and stored in a vector database (Pinecone).
-2. **Query Handling:** The chatbot processes user queries using LangChain’s retriever tool to fetch relevant knowledge.
-3. **Response Generation:** The LLM (GPT-4o) generates responses based on retrieved knowledge and chat history.
+## Tech Stack
 
-## Example Query
-```python
-user_message = "Is caviar mentioned in the SECO regulation?"
-result = agent_with_chat_history.invoke({"input": user_message}, config={"configurable": {"session_id": uuid.uuid4()}})
-print(result["output"])
-```
-
-## Future Enhancements
-- **Multi-language support (German, French, etc.)**
-- **Improved document parsing techniques**
-- **Real-time monitoring and analytics dashboard**
-
-## Contributors
-- **Ilya Ovsyannikov** (CTO at NavAI)
-- NavAI Development Team
-
-## License
-This project is licensed under the MIT License. See `LICENSE` for more details.
-
+Python · LangChain (tool-calling agent, `RunnableWithMessageHistory`) · OpenAI **GPT-4o** + `text-embedding-3-small` · **Pinecone** (serverless vector DB) · `PyPDFLoader` · Google Drive API.
